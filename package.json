@@ -47,7 +47,7 @@
     "date-fns-tz": "^1.1.6",
     "dotenv": "^10.0.0",
     "geolib": "^3.3.1",
-    "markdown-it": "^12.1.0",
+    "markdown-it": "^12.3.2",
     "markdown-it-abbr": "^1.0.4",
     "markdown-it-anchor": "^8.1.2",
     "markdown-it-attrs": "^4.0.0",
